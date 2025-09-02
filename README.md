@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="Assets/screenshot/musicflow.png" alt="MusicFlow Logo" width="200">
+  <img src="Assest/screenshot/musicflow.png" alt="MusicFlow Logo" width="200">
 </p>
 
-![logo](Assets/screenshot/musicflow.png)
+![logo](Assest/screenshot/musicflow.png)
 
 # MusicFlow 🎶
 
@@ -143,11 +143,11 @@ Notes
 ---
 ## screenshot
 
-![main menu](Assets/screenshot/main_menu.png)
+![main menu](Asset/screenshot/main_menu.png)
 
-![play](Assets/screenshot/play.png)
+![play](Assest/screenshot/play.png)
 
-![notification](Assets/screenshot/notify.png)
+![notification](Assest/screenshot/notify.png)
 
 ---
 
