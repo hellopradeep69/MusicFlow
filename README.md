@@ -89,7 +89,7 @@ musicflow
 ❌ Exit
 ```
 
-![menu](Asset/screenshot/main.png)
+![menu](Asset/screenshot/menu.png)
 
 1. Play
 
