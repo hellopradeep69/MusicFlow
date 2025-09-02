@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="Assest/screenshot/musicflow.png" alt="MusicFlow Logo" width="200">
-</p>
-
 ![logo](Assest/screenshot/musicflow.png)
 
 # MusicFlow 🎶
