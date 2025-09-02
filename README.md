@@ -140,7 +140,7 @@ Notes
 ## screenshot
 
 
-![menu](Asset/screenshot/main_menu.png)
+![menu](Asset/screenshot/main.png)
 
 ![play](Assest/screenshot/play.png)
 
