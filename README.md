@@ -89,6 +89,8 @@ musicflow
 ❌ Exit
 ```
 
+![menu](Asset/screenshot/main.png)
+
 1. Play
 
 - Choose tracks from your Music directory.
@@ -138,9 +140,6 @@ Notes
 
 ---
 ## screenshot
-
-
-![menu](Asset/screenshot/main.png)
 
 
 ![play](Assest/screenshot/play.png)
