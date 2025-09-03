@@ -119,18 +119,6 @@ musicflow
 - Quit playback
 - Back to main menu
 ---
-## Keybindings (Queue Editor)
-
-
-| Key | Action          |
-| --- | --------------- |
-| J   | Move track down |
-| K   | Move track up   |
-| DD  | Delete track    |
-| ESC | Exit editor     |
-
----
-
 Notes
 
 - Temporary shuffled playlists are automatically deleted after playback.
