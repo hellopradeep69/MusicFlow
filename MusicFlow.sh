@@ -1,4 +1,5 @@
 #!/bin/bash
+# MusicFlow.sh
 
 # ---------------- CONFIG ----------------
 THEME="/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
