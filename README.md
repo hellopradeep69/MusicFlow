@@ -1,3 +1,2 @@
-----------
-### Rewrite of musicflow
+# Rewrite of musicflow
 ----------
